@@ -22,3 +22,7 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+testeJPA/projeto-jpa/pom.xml
+testeJPA/.vscode/settings.json
+testeJPA/projeto-jpa/target/classes/META-INF/persistence.xml
+testeJPA/projeto-jpa/src/main/resources/META-INF/persistence.xml
